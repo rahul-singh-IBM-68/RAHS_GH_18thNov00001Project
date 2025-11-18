@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: RAHS_GH_18thNov00001Project
+  gitServerName: RAHS_GH_BT_Account
+  gitUrl: https://github.com/rahul-singh-IBM-68
+  gitUsername: rahul-singh-IBM-68
+  gitBranch: main
